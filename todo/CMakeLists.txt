@@ -68,7 +68,7 @@ juce_add_plugin(
   PRODUCT_NAME
     ${TREMOLO_PLUGIN_NAME}
   VERSION
-    0.0.0
+    0.0.1
   COMPANY_NAME
     "LionDSP"
   PLUGIN_MANUFACTURER_CODE
